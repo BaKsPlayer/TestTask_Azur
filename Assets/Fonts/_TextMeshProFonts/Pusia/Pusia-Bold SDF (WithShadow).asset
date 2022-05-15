@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: Pusia-Bold SDF (WithShadow)
   m_EditorClassIdentifier: 
-  hashCode: 1780243815
+  hashCode: -730340574
   material: {fileID: 6106662109904810077}
-  materialHashCode: 592662375
+  materialHashCode: -940442686
   m_Version: 1.1.0
   m_SourceFontFileGUID: 644ff1ccf8eed4966841fc8af95803bb
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 644ff1ccf8eed4966841fc8af95803bb, type: 3}
@@ -12713,7 +12713,7 @@ Material:
     - _ReflectFaceColor: {r: 0, g: 0, b: 0, a: 1}
     - _ReflectOutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
-    - _UnderlayColor: {r: 0.18212414, g: 0, b: 1, a: 0.5}
+    - _UnderlayColor: {r: 0, g: 0, b: 0, a: 0.7294118}
   m_BuildTextureStacks: []
 --- !u!28 &9167700013181365931
 Texture2D:
